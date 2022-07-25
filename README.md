@@ -8,4 +8,4 @@ where we can see that given:
 * T = 8 
 * d_m = unknown
 \
-The S solution set is S = {p1,p3} (it includes itself while counting for T).
+The S solution set is S = {p1,p3} (the point includes itself while counting for T).
